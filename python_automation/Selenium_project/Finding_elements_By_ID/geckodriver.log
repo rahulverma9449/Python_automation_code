@@ -1,0 +1,169 @@
+1687411759832	geckodriver	INFO	Listening on 127.0.0.1:59360
+1687411762884	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59361" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rverma3\\AppData\\Local\\Temp\\rust_mozprofileeiMKIL"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1687411763907	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1687411763914	Marionette	INFO	Listening on port 59369
+Read port: 59369
+WebDriver BiDi listening on ws://127.0.0.1:59361
+1687411764175	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59361/devtools/browser/5ec32b15-b13e-4fcf-a1f0-569a9518832c
+JavaScript warning: https://www.amazon.com/ line 1972 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com/, line 2012: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1687411781032	Marionette	INFO	Stopped listening on port 59369
+Dynamically enable window occlusion 1
+1687411867373	geckodriver	INFO	Listening on 127.0.0.1:59552
+1687411870109	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59553" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rverma3\\AppData\\Local\\Temp\\rust_mozprofileEEM7bw"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1687411870824	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1687411870829	Marionette	INFO	Listening on port 59563
+Read port: 59563
+WebDriver BiDi listening on ws://127.0.0.1:59553
+1687411871051	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59553/devtools/browser/de2c9fbf-a33f-4da7-8c0e-0709e1910c35
+JavaScript error: moz-extension://8388ecac-a07e-4af8-ad00-2579b88def24/contentTrackerLoader.js, line 18: TypeError: t is undefined
+JavaScript error: moz-extension://8388ecac-a07e-4af8-ad00-2579b88def24/commons.js, line 1: NS_ERROR_UNEXPECTED
+JavaScript error: , line 0: AbortError: Actor 'Conduits' destroyed before query 'RuntimeMessage' was resolved
+1687411882727	Marionette	INFO	Stopped listening on port 59563
+Dynamically enable window occlusion 1
+1687411930121	geckodriver	INFO	Listening on 127.0.0.1:59629
+1687411932968	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59630" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rverma3\\AppData\\Local\\Temp\\rust_mozprofileUixVy1"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1687411933772	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1687411933781	Marionette	INFO	Listening on port 59641
+Read port: 59641
+WebDriver BiDi listening on ws://127.0.0.1:59630
+1687411934073	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59630/devtools/browser/346fd53c-5631-4f0d-a5e8-2725bb2c244b
+JavaScript error: moz-extension://082645e5-fdbe-4b5e-93fd-3999f43ea837/contentTrackerLoader.js, line 18: TypeError: t is undefined
+JavaScript warning: https://static-assets-web.flixcart.com/px/gNtTli3A/init.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: moz-extension://082645e5-fdbe-4b5e-93fd-3999f43ea837/contentTrackerLoader.js, line 18: TypeError: t is undefined
+JavaScript error: moz-extension://082645e5-fdbe-4b5e-93fd-3999f43ea837/contentTrackerLoader.js, line 18: TypeError: t is undefined
+JavaScript error: moz-extension://082645e5-fdbe-4b5e-93fd-3999f43ea837/contentTrackerLoader.js, line 18: TypeError: t is undefined
+JavaScript error: moz-extension://082645e5-fdbe-4b5e-93fd-3999f43ea837/contentTrackerLoader.js, line 18: TypeError: t is undefined
+JavaScript error: moz-extension://082645e5-fdbe-4b5e-93fd-3999f43ea837/contentTrackerLoader.js, line 18: TypeError: t is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.flipkart.com."
+JavaScript error: moz-extension://082645e5-fdbe-4b5e-93fd-3999f43ea837/contentTrackerLoader.js, line 18: TypeError: t is undefined
+JavaScript error: moz-extension://082645e5-fdbe-4b5e-93fd-3999f43ea837/contentTrackerLoader.js, line 18: TypeError: t is undefined
+[Parent 27664, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:787
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1687414277929	Marionette	INFO	Stopped listening on port 59641
+Dynamically enable window occlusion 1
+ I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:787
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PBackground::Msg_PVerifySSLServerCertConstructor Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1687412385603	geckodriver	INFO	Listening on 127.0.0.1:60528
+1687412388444	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60529" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rverma3\\AppData\\Local\\Temp\\rust_mozprofileucgjKB"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1687412389429	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1687412389439	Marionette	INFO	Listening on port 60557
+Read port: 60557
+WebDriver BiDi listening on ws://127.0.0.1:60529
+1687412389844	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60529/devtools/browser/23d4a27d-35fb-4399-865e-f186263ebf86
+JavaScript warning: https://static-assets-web.flixcart.com/px/gNtTli3A/init.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1687412555575	geckodriver	INFO	Listening on 127.0.0.1:60834
+1687412558419	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60835" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rverma3\\AppData\\Local\\Temp\\rust_mozprofile7xxitg"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1687412559099	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1687412559105	Marionette	INFO	Listening on port 60843
+Read port: 60843
+WebDriver BiDi listening on ws://127.0.0.1:60835
+1687412559342	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60835/devtools/browser/ac191b93-4c91-4dcf-ac4d-cdef850205f3
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yI/l/en_GB/5yUWfqF7exQ.js?_nc_x=Ij3Wp8lg5Kz, line 21: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Parent 39484, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:787
+JavaScript error: moz-extension://18b1ed7c-9f7b-49d4-9dcf-d93f5b7c9a5b/contentTrackerLoader.js, line 18: TypeError: t is undefined
+1687412582555	Marionette	INFO	Stopped listening on port 60843
+Dynamically enable window occlusion 1
+[Parent 39484, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:787
+1687413252516	geckodriver	INFO	Listening on 127.0.0.1:61312
+1687413255468	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61313" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rverma3\\AppData\\Local\\Temp\\rust_mozprofileYsKb4x"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1687413256572	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1687413256582	Marionette	INFO	Listening on port 61323
+Read port: 61323
+WebDriver BiDi listening on ws://127.0.0.1:61313
+1687413256909	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61313/devtools/browser/6a295443-8483-47b4-acff-478c9a257ceb
+JavaScript warning: https://static-assets-web.flixcart.com/px/gNtTli3A/init.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1687413420710	Marionette	INFO	Stopped listening on port 61323
+Dynamically enable window occlusion 1
+1687413502247	geckodriver	INFO	Listening on 127.0.0.1:63583
+1687413505181	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63584" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rverma3\\AppData\\Local\\Temp\\rust_mozprofileTGQwTm"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1687413505882	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1687413505890	Marionette	INFO	Listening on port 63600
+Read port: 63600
+WebDriver BiDi listening on ws://127.0.0.1:63584
+1687413506181	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:63584/devtools/browser/7a219146-5e80-42ec-9e98-55b38a7b9a88
+JavaScript warning: https://static-assets-web.flixcart.com/px/gNtTli3A/init.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: moz-extension://cc8f7a95-2925-4503-a012-785bd62b67c2/contentTrackerLoader.js, line 18: TypeError: t is undefined
+1687414282256	Marionette	INFO	Stopped listening on port 63600
+Dynamically enable window occlusion 1
+!!! error running onStopped callback: TypeError: callback is not a function
+"--remote-debugging-port" "64488" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rverma3\\AppData\\Local\\Temp\\rust_mozprofileezmYyH"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1687414279200	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1687414279208	Marionette	INFO	Listening on port 64497
+Read port: 64497
+WebDriver BiDi listening on ws://127.0.0.1:64488
+1687414279536	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64488/devtools/browser/41cd982c-c0af-4887-8787-a21cd68d6999
+JavaScript warning: https://static-assets-web.flixcart.com/px/gNtTli3A/init.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1687414393065	Marionette	INFO	Stopped listening on port 64497
+Dynamically enable window occlusion 1
+!!! error running onStopped callback: TypeError: callback is not a function
+1687414422419	geckodriver	INFO	Listening on 127.0.0.1:64630
+1687414425480	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64631" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rverma3\\AppData\\Local\\Temp\\rust_mozprofileNYW6FS"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1687414425985	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1687414425993	Marionette	INFO	Listening on port 64638
+Read port: 64638
+WebDriver BiDi listening on ws://127.0.0.1:64631
+1687414426229	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64631/devtools/browser/2d8bdd9b-08cc-419a-9600-719e398879c6
+JavaScript error: moz-extension://5b47bcb7-2708-4a0d-a302-43d253f26955/contentTrackerLoader.js, line 18: TypeError: t is undefined
+JavaScript error: moz-extension://5b47bcb7-2708-4a0d-a302-43d253f26955/contentTrackerLoader.js, line 18: TypeError: t is undefined
+JavaScript warning: https://static-assets-web.flixcart.com/px/gNtTli3A/init.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: moz-extension://5b47bcb7-2708-4a0d-a302-43d253f26955/contentTrackerLoader.js, line 18: TypeError: t is undefined
+JavaScript error: moz-extension://5b47bcb7-2708-4a0d-a302-43d253f26955/contentTrackerLoader.js, line 18: TypeError: t is undefined
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1687414805333	Marionette	INFO	Stopped listening on port 64638
+Dynamically enable window occlusion 1
+osts" "localhost" "-no-remote" "-profile" "C:\\Users\\rverma3\\AppData\\Local\\Temp\\rust_mozprofileHAfI6F"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1687414805992	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1687414805998	Marionette	INFO	Listening on port 64860
+Read port: 64860
+WebDriver BiDi listening on ws://127.0.0.1:64848
+1687414806240	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64848/devtools/browser/c908211b-d5ef-4e8d-8b11-8efc451dfa17
+JavaScript warning: https://static-assets-web.flixcart.com/px/gNtTli3A/init.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: moz-extension://d4f0e8eb-44fe-4eb1-828a-00f85fefbf88/contentTrackerLoader.js, line 18: TypeError: t is undefined
+1687414837484	Marionette	INFO	Stopped listening on port 64860
+Dynamically enable window occlusion 1
+console.warn: services.settings: blocklists/gfx sync interrupted by shutdown
+console.error: (new AbortError("IndexedDB: main/nimbus-preview getLastModified() IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.", "resource://services-settings/IDBHelpers.jsm", 18))

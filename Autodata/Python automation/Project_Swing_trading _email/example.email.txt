@@ -1,0 +1,24 @@
+
+Dell short $ 374.43
+stop Loss $397.4
+Target $400.00
+
+Team short $ 377.43
+stop Loss $397.4
+Target $400.00
+
+HCL $ 376.43
+stop Loss $397.4
+Target $400.00
+
+wipro $ 378.43
+stop Loss $397.4
+Target $400.00
+
+cisco $ 379.43
+stop Loss $397.4
+Target $400.00
+
+delta $ 371.43
+stop Loss $397.4
+Target $400.00

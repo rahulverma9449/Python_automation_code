@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Present Vs. Displayed</title>
+   <script>
+        function main(){
+            if(document.getElementById('mercedes').checked){
+              document.getElementById('benz-model').style.display = 'block';
+              document.getElementById('BMW-model').style.display = 'None';
+              document.getElementById('Toyota-model').style.display = 'None';
+              }
+            else if(document.getElementById('BMW').checked){
+              document.getElementById('benz-model').style.display = 'None';
+              document.getElementById('BMW-model').style.display = 'Block';
+              document.getElementById('Toyota-model').style.display = 'None';
+              }
+            else if(document.getElementById('Toyota').checked){
+              document.getElementById('benz-model').style.display = 'None';
+              document.getElementById('BMW-model').style.display = 'None';
+              document.getElementById('Toyota-model').style.display = 'Block';
+              }
+   </script>
+</head>
+<body>
+<div>
+  <button id="btn1"> BUTTON 1 </button>
+  <br>
+  <br>
+  <button id="btn2">BUTTON 2</button>
+  <br>
+  <br>
+  <button id="btn3">BUTTON 3</button>
+  <br>
+  <br>
+  <button id="btn4" hidden>BUTTON 4</button>
+</div>
+
+</body>
+</html>

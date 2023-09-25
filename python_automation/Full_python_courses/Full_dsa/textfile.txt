@@ -1,0 +1,9 @@
+apple - fruit
+
+mango - fruit
+
+carrot - vegetable
+
+onion - vegetable
+
+cake - dessert
